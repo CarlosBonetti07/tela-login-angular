@@ -1,0 +1,1 @@
+Adicionei o arquivo .dist compactado no repositório para facilitar o compartilhamento da versão de produção da aplicação. Isso permite que qualquer pessoa baixe rapidamente os arquivos gerados pela build sem precisar compilar o código localmente, garantindo que a versão final da aplicação esteja disponível de forma simples e eficiente.
